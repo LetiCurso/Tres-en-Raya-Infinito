@@ -20,7 +20,7 @@ Se basa en el clásico *Tres en Raya*, pero con una **dinámica infinita** que a
 
 ## 🖼️ Vista previa del proyecto
 
-[![Ver video en YouTube](https://img.youtube.com/vi/TU_ID_DEL_VIDEO/0.jpg)](https://youtu.be/FJ-OaBMbRFw)  
+[![Ver video en YouTube](https://img.youtube.com/vi/FJ-OaBMbRFw/0.jpg)](https://youtu.be/FJ-OaBMbRFw)  
 
 👉 Haz clic en la imagen o en el siguiente enlace para ver el proyecto en funcionamiento:  
 🔗 [Ver video en YouTube](https://youtu.be/FJ-OaBMbRFw)
